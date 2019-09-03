@@ -24,19 +24,19 @@
 
 <key>url</key>
 
-<string>https://github.com/happyCaiPiao/iosMaoWei/raw/master/re-猫尾视频-maoWeiVideo%20(3).ipa</string>
+<string>https://raw.githubusercontent.com/happyCaiPiao/iosMaoWei2/master/re-猫尾视频-maoWeiVideo%20(3).ipa</string>
 
 </dict>
 
 <dict>
-
+ 
 <key>kind</key>
 
 <string>display-image</string>
 
 <key>url</key>
 
-<string>https://raw.githubusercontent.com/happyCaiPiao/iosMaoWei/master/logo57.png?token=AM7TZQOK23O75Z5RBFFX6T25NZMSK</string>
+<string>https://raw.githubusercontent.com/happyCaiPiao/iosMaoWei2/master/logo57.png</string>
 
 </dict>
 
@@ -48,9 +48,9 @@
 
 <key>url</key>
 
-<string>https://raw.githubusercontent.com/happyCaiPiao/iosMaoWei/master/logo512.png?token=AM7TZQIQDMKDT35SBDLHQIK5NZMTQ</string>
+<string>https://raw.githubusercontent.com/happyCaiPiao/iosMaoWei2/master/logo512.png</string>
 
-</dict>
+</dict> 
 
 </array>
 
